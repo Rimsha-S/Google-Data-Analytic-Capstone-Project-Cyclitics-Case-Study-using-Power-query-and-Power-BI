@@ -56,7 +56,7 @@ Missing information on customer demographics and price points.
 Power BI: Power Query + Power Pivot
 a. Data Cleansing and Transformation
 To Extract, Transform and Load (ETL), I used the Power Query Editor.
-Getting data into Power BI by uploading the folder containing the 12 CSV files. The files are then combined into a single file named Bike_Trips and some necessary data cleaning and transformation are performed. Below is a snapshot of the cleaning steps:
+Getting data into Power BI by uploading the folder containing the 12 CSV files. The files are then combined into a single file named bikeshare_data and some necessary data cleaning and transformation are performed. Below is a snapshot of the cleaning steps:
 
 ![image](https://user-images.githubusercontent.com/105121789/213730502-6000f546-fc5e-4dac-8f98-fee5d0706cd5.png)
 
