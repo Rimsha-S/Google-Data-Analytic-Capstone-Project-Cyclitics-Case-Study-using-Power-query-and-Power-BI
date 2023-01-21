@@ -95,7 +95,7 @@ Now, we will look at trip performance per month, day of week
 
 ![image](https://user-images.githubusercontent.com/105121789/213732922-fc1b6991-3afc-40d7-9871-1675cca199c8.png)
 
-From the line graphs above, it is evident that casual members prefer riding bikes between late spring to the end of summer and refrain from biking in the winter months (Jan/Feb), likely due to the worse weather conditions. Annual members prefer the spring/summer months as well; however, their ridership levels are more consistent and steady over the year compared to a sharp peak point for casual riders.
+From the graphs above, it is evident that casual members prefer riding bikes between late spring to the end of summer and refrain from biking in the winter months (Jan/Feb), likely due to the worse weather conditions. Annual members prefer the spring/summer months as well; however, their ridership levels are more consistent and steady over the year compared to a sharp peak point for casual riders.
 It can be observed that there is more riding happening on the weekends (Friday, Saturday, and Sunday). Properly most riders (member/casual) ride for leisure during the weekends.
 
 
